@@ -1,0 +1,151 @@
+.beige{
+    background-color: #F5F1F1;
+}
+
+.green {
+    background-color: #546C5E;
+}
+
+.stand {
+    color: white;
+}
+
+h1 {
+    font-size: 32px;
+    font-family: "Playfair Display";
+    font-weight:400;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: "SF Pro Display";
+    font-weight: 400;
+}
+
+p {
+    font-size: 24px;
+    font-family: "SF Pro Display"; 
+    font-weight: 400;
+}
+
+li {
+    font-size: 24px;
+    font-family: "SF Pro Display"; 
+    font-weight: 400;
+}
+
+.align {
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    
+
+}
+
+.heading {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    
+}
+
+.firstImage {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    
+}
+
+.food {
+    width: 70%;
+}
+
+.role {
+    text-align:left;
+    width: 30%;
+    position: right;
+    padding: 10px;
+    align-items: flex-end;
+    margin-left: 500px;
+}
+
+.quote{
+    height: 200px;
+}
+
+.quoteText {
+   margin-left: 800px;
+   width: 50%;
+}
+
+.content {
+    width: 70%;
+    margin-left: 500px;
+}
+
+.research{
+    height: 400px;
+}
+
+.interviews{
+    text-align: center;
+}
+
+.people{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+.last{
+    align-items: center;
+    width: 30%;
+}
+
+.finding{
+    margin-left: 1000px;
+}
+
+.user {
+    display: flex;
+    flex-direction: column;
+}
+
+.float{
+    float: right;
+    margin-left: 800px;
+}
+
+.jayme{
+    border-radius: 30%;
+}
+
+.style{
+   margin-left: 800px;
+   width: 70%;
+}
+
+.before {
+    margin-left: 600px;
+    display:flex;
+    flex-direction: row;
+}
+
+.one{
+    padding: 20px;
+}
+
+.two{
+    padding: 20px;
+}
+
+.soup{
+    margin-left: 400px;
+    display: flex;
+    flex-direction: row;
+}
+
+.con{
+    width: 70%;
+    margin-left: 600px;
+}
